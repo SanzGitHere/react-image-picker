@@ -14,14 +14,15 @@ Supports **multiple image selection** with delete confirmation prompts.
 - **Fast Build** – Powered by [Vite](https://vitejs.dev/) for quick development and hot reload.
 
 
-🖥️ How It Works
-Click on an image from the gallery to select it.
-Selected images are highlighted visually.
-Click a selected image again to trigger a delete confirmation prompt.
-Confirm to remove the image from the selection.
+## 🖥️ How It Works
 
-🛠️ Tech Stack
-React – Frontend library
-Vite – Build tool for lightning-fast dev
-CSS – For styling
+- Click on an image from the gallery to select it.
+- Selected images are highlighted visually.
+- Click a selected image again to trigger a delete confirmation prompt.
+- Confirm to remove the image from the selection.
+
+## 🛠️ Tech Stack
+- React – Frontend library
+- Vite – Build tool for lightning-fast dev
+- CSS – For styling
 
